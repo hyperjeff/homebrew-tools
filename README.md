@@ -2,7 +2,7 @@
 
 Various custom macOS command-line tools.
 
-- [`delta`](https://github.com/hyperjeff/shuffle), audio player w/ default shuffle mode and various features.
+- [`shuffle`](https://github.com/hyperjeff/shuffle), audio player w/ default shuffle mode and various features.
 
 ## Installation
 
