@@ -1,9 +1,9 @@
 class Shuffle < Formula
   desc "command-line audio player"
   homepage "https://github.com/hyperjeff/shuffle"
-  url "https://github.com/hyperjeff/shuffle/releases/download/v0.9.0/shuffle-0.9.0.tar.gz"
-  sha256 "79052842831397ded9843557eeb6c316772806b13e225cc45dd8d591df163bf9"
-  version "v0.9.0"
+  url "https://github.com/hyperjeff/shuffle/releases/download/v0.9.1/shuffle-0.9.1.tar.gz"
+  sha256 "8a62bcb10a39f3e32f4ee5fe59146f01833f8c56598881e9706e1de5be29c957"
+  version "v0.9.1"
 
   bottle :unneeded
 
