@@ -1,9 +1,9 @@
 class Shuffle < Formula
   desc "command-line audio player"
   homepage "https://github.com/hyperjeff/shuffle"
-  url "https://github.com/hyperjeff/homebrew-tools/releases/download/v1.8.0/shuffle-1.8.0.tar.gz"
-  sha256 "8b52df316857e4dc73fa0b5748d776dd7393bee44b022806338fb9f4645b4854"
-  version "v1.8.0"
+  url "https://github.com/hyperjeff/homebrew-tools/releases/download/v1.8.1/shuffle-1.8.1.tar.gz"
+  sha256 "7328b6f12410d60003d6db1caf9cab2d9057cd2ba1633f1ccb353229661dc641"
+  version "v1.8.1"
 
   bottle :unneeded
 
