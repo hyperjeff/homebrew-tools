@@ -5,8 +5,6 @@ class Shuffle < Formula
   sha256 "3f8c0df747adc818135d994c299439672541a11ef2fd4b2c0f0f80a54fb2dd9c"
   version "v1.8.1"
 
-  bottle :unneeded
-
   def install
     bin.install "shuffle"
   end
